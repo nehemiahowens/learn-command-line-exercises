@@ -8,10 +8,32 @@
 
 ### Write down the path that this command gives you. Find it with your graphical file browser of choice.
 
-    *** DELETE AFTER READING ***
-    Please use markdown formatting to answer this (and future) questions. Provide the command you ran, the output
-    of that command and how you found the path/directory in Finder (graphical file browser)
-    
-    Your answer goes here...
+```
+(master) Neheniah Owens
+Nehemiahs-MacBook-Pro:do_more_chapter_2 $ pwd
+/Users/User/workspace/davinci_coders_t2_2016/homework/learn-command-line-exercises/do_more_chapter_2
+```
 
 ### No, seriously, type it 20 times and say it out loud. Sssh. Just do it.
+
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
+ pwd
