@@ -7,11 +7,11 @@
 
 ### Make 20 other directories inside the temp directory in various levels. Go look at them with a graphical file browser.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+``` Nehemiahs-MacBook-Pro:~ $ mkdir temp/stuff/things/places/people/mark/john/jacob/jonah/jessica/janet/james/jack/jerry/julie/jackson/josiah/mike/michelle/marry```
 
 ### Make a directory with a space in the name by putting quotes around it
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+``` Nehemiahs-MacBook-Pro:~ $ mkdir "I love SNRKS"```
 
 
 
