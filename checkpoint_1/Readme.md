@@ -1,50 +1,54 @@
 
 Create a directory named foo_bar
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    mkdir foo_bar
     
 Go into the foo_bar directory
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    cd foo_bar/
 
 For each question that is asked below, please provide the command you would run to find the answer, and then answer the question.
 
 1) What directory are you in?
-
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    ```pwd```
+    
+    1. The current directory is /Users/User/workspace/davinci_coders_t2_2016/practice/foo_bar
 
 2) Are you in the class directory?
-
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    ```pwd```
+    
+    No; I am in the foo_bar/ directory
     
 3) Are you in a subdirectory of the class directory?
     
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    Yes I am; /Users/User/workspace/davinci_coders_t2_2016/practice/foo_bar
     
 4) Please make a directory called "My Stuff"
-
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    ```mkdir "My Stuff```
     
 5) What directory are you in now?
-
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    pwd
+   
+    Users/User/workspace/davinci_coders_t2_2016/practice
     
 6) Go into the "My Stuff" directory
  
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    cd My\ Stuff/
  
 7) What directory are you in now?
      
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    ls
+    Nehemiahs-MacBook-Pro:My Stuff $
       
 8) Find that directory in the graphical file browser (Finder on Mac).
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    Open "finder> davinci_coders_t2_2016> practice> My Stuff
 
 9) Please go up two directories.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    cd .. 
+    cd ..    
     
 10) What directory are you in now?
      
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    /Users/User/workspace/davinci_coders_t2_2016
